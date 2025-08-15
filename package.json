@@ -1,0 +1,13 @@
+{
+  "name": "firebase-reset-verify-api",
+  "version": "1.0.0",
+  "description": "API untuk reset password & verify email Firebase tanpa expose API key",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.10.1"
+  }
+}
